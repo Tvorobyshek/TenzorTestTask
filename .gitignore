@@ -165,3 +165,7 @@ cython_debug/
 .idea/inspectionProfiles/Project_Default.xml
 .idea/inspectionProfiles/profiles_settings.xml
 .idea/workspace.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/test_task.iml
+.idea/vcs.xml
